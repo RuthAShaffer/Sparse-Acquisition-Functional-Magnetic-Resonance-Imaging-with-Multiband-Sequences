@@ -17,11 +17,8 @@ Concern to note: The phantom is not equally present in all slices (i.e., the pha
 GRAPHS_AND_INTENSITY_INFO:
 Contains slice timing / intensity graphs, with slice-to-slice intensity data in individual txt files.
 
-RAW_DATA_AND_DCM2NIIX_CONVERSION:
-Contains raw imaging phantom data, and conversion from DCM2NIIX to prepare for preprocessing.
-
 RELEVANT_SCANS_CONVERTED:
-Contains phantom scans of interest (from DCM2NIIX)
+Contains imaging phantom data converted to .nii file type via DCM2NIIX to prepare for preprocessing.
 
 AFNI_SCRIPTS:
 1) Contains script to obtain slice-by-slice intensity information (preprocessing/processing done in AFNI)
