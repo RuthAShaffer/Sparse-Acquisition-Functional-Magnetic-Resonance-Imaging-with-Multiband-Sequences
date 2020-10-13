@@ -10,6 +10,7 @@ addpath('/path_to_MATLAB/MATLAB/parse_json')
 
 % for graphing legend
 addpath('/path_to_MATLAB/MATLAB/simonhenin-columnlegend-fa0aabf')
+
 %% SET UP TIMING FILE PATHS
 
 fileOrder = {'Slice44_Inter_MaxDelay_10','Slice44_Inter_Continuous_18','Slice44_Ascen_MaxDelay_14','Slice44_Ascen_Continuous_22','Slice48_Inter_MaxDelay_12','Slice48_Inter_Continuous_20','Slice48_Ascen_MaxDelay_16','Slice48_Ascen_Continuous_24'};
@@ -21,6 +22,7 @@ for i=fileOrder
     infile{indexCount} = sprintf('%s/%s.json',pathToFiles,file);
     indexCount=indexCount+1;
 end
+
 %% IMPORT JSON FILE AND ORGANIZE
 
 for i=1:length(infile)
