@@ -12,7 +12,7 @@ On this project, I worked with an interdisciplinary team of researchers to optim
 
 For information on scanning parameters: SCAN_INFORMATION.xlsx
 
-Concern to note: The phantom is not equally present in all slices (i.e., the phantom is not always present in end slices)
+Concern to note: The phantom is not equally present in all slices (i.e., the phantom is not always present in end slices depending on the number of slices collected)
 
 GRAPHS_AND_INTENSITY_INFO:
 Contains slice timing / intensity graphs, with slice-to-slice intensity data in individual txt files.
