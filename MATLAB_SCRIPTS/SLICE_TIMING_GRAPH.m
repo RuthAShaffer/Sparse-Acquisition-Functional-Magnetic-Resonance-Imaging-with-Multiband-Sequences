@@ -1,5 +1,5 @@
 %% INFORMATION
-% Purpose:  display slice timing data - acquisition order/times 
+% Purpose:  Display slice timing data - acquisition order/times.
 % Ruth Shaffer May 2018
 
 
