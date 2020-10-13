@@ -1,5 +1,5 @@
 %% INFORMATION
-% Purpose:  display slice intensity data (absolute value of percent change)
+% Purpose:  Display slice intensity data (absolute value of percent change).
 % Ruth Shaffer May 2018
 
 
