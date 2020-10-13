@@ -1,5 +1,5 @@
 %% INFORMATION
-% Purpose:  display Slice intensity data
+% Purpose:  display slice intensity data
 % Ruth Shaffer May 2018
 
 %% ADD PATH
