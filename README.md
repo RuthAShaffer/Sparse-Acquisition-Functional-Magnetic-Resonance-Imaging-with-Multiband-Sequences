@@ -25,7 +25,7 @@ AFNI_SCRIPTS:
 2) Contains script (“helper” in title) to initialize/automate the first script
 
 ANALYSIS:
-Contains the outputs of the AFNI preprocessing/processing script
+Contains the outputs of the AFNI preprocessing/processing script that are needed for plotting in MATLAB.
 
 MATLAB_SCRIPTS:
 Contains scripts for graphing slice timing, mean intensity, mean intensity absolute value of percent change
