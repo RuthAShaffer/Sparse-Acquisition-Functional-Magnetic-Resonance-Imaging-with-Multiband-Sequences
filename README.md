@@ -2,7 +2,7 @@
 
 The aim of this project was to optimize sequence parameters for sparse acquisition* fMRI scanning with multiband* sequences, with overarching goal of noise reduction in human neuroimaging data. This project began when a pilot fMRI memory experiment I was running required sparse acquisition to allow for subjects to speak aloud their responses in a memory task conducted during the imaging session.  Because the use of sparse acquisition with multiband sequences is relatively new, the optimal scanner sequence parameters to reduce slice-by-slice noise had not been determined. 
 
-On this project, I worked with an interdisciplinary team of researchers to optimize the scanner sequence parameters. Of particular focus were changes in average slice-by-slice signal intensity as a function of repetition time (TR of 3.2s vs. 10s), multiband shots (even vs. odd number of shots), slice gap (0%, 10%, 20%, and 30%), and acquisition order (interleaved vs. ascending).
+On this project, I worked with an interdisciplinary team of researchers to optimize the scanner sequence parameters for sparse acquisition with multiband sequences. Of particular focus were changes in average slice-by-slice signal intensity as a function of multiband shots (even vs. odd number of shots), slice gap (0%, 10%, 20%, and 30%), repetition time (TR of 3.2s vs. 10s), and acquisition order (interleaved vs. ascending).
 
 *In sparse acquisition fMRI scanning, unlike continuous scanning, there are breaks built into the fMRI pulse sequence in which neuroimaging data is not being collected.  Sparse acquisition can be used in order to more readily allow for things like speech in the scanner that can lead to head motion. 
 
